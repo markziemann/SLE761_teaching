@@ -1,0 +1,102 @@
+---
+title: "AT3 Poster"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+SLE761 – Research Planning & Communication
+
+Trimester 2, 2021
+
+## Summative Assessment Task 3 - Poster/Visual Communication Piece Preparation Guide and Rubric 
+
+The purpose of this assessment is for students to apply their gained knowledge and to conduct further research on the topics of Intellectual Property (IP) and Research Commercialisation.
+It also provides students with the opportunity to apply Research Communication skills in visual communication development and preparation. 
+In previous years, the format of submission has been limited to large format poster but this time we will be more flexible, allowing any type of visual communication piece which might include any of the following:
+
+* Poster 
+
+* Brochure
+
+* Infographic
+
+* Animation
+
+* Web page / interactive piece
+
+* Any other format (so long as it meets the learning outcomes)
+
+Each student is required to prepare a piece, choosing one of the following topics; 
+
+1. **An overview of the Australian Patent System.**
+You should include some detail on International patenting processes but the focus should be on Australia.  
+
+2. **An overview of Plant Breeder’s Rights in Australia.**
+Like above, International licencing can also be briefly described.
+
+3. **An overview of IP/Research Commercialisation of a Company or Institute related to your research interests.**
+For example, what IP issues are of relevance to CSL Limited (Commonwealth Serum Laboratories) Limited?
+If choosing this option, it is important to provide a brief introduction to the Company/Institute rather than delving straight into the IP/Commercialisation issues. 
+
+4. An overview of IP/commercialisation issues for a particular class of products or services.
+Examples include vaccines, genetic testing techniques, software, databases, engineering designs, chemical structures, synthetic biology, etc.
+
+If you choose option 1 or 2, consider that you are an employee of IP Australia and need to design something innovative to help communicate the importance of IP to researchers.
+For option 3, assume you are an employee of your chosen Company/Institute and have been asked to design something to help newly recruited staff understand the importance of IP. 
+For option 4, assume you are an IP consultant that helps science and technology companies and institutes protect the value of their inventions; the piece will inform researchers about the main issues around IP for the particular class of products/services. 
+
+For all of the above options, your piece must include some practical cases studies and/or examples.
+These examples must be related to the selected topic.
+For example if you are giving an overview of the Australian patent system, do not describe patents taken out by international firms in jurisdictions outside Australia. 
+
+As this is a visual communication piece and not a written report, you will not be able to include every specific detail of a topic, so one of the important aspects of this task is for you to prioritise the details that are of highest importance to focus on.
+One temptation when completing this task may be to fill your piece with words, but think of innovative ways that you can present information without having to include huge slabs of text (e.g. images, flow diagrams, graphs or tables).
+Refer to our previous discussion on visual design (poster) development resources identified in the class notes. 
+
+Please be mindful that the elements you use in your piece need to be original. Do not copy-paste images or text from the web without attribution.
+Create your own designs and diagrams.
+Reword text explanations.
+If you must use photographs, ensure that proper attribution is given and that you are permitted to reproduce the work. For example check if the images are under a permissive rather than restrictive licence (or copyright).
+
+### Assignment Details
+
+* **Due: Wednesday 6th October, 8:00pm** (during week 12 - study week - as this unit does not have an exam).
+
+* If you choose the conventional poster presentation, the poster size should be “A0”  (841mm x 1189 mm). 
+Poster can be formatted in either landscape or portrait orientation. 
+
+* There is no strict word count.
+But it is suggested to keep your word count as low as is practical. 
+
+* Online submission on the CloudDeakin Unit site only.
+There is no need to print it out. Submit only in PDF format.
+You can use any program you like to prepare the piece but please convert to PDF to ensure accuracy of your final submitted version.
+
+* Don’t forget to follow standard referencing practices.
+Harvard style is preferred but you can use an alternate (e.g. Vancouver) style for this task.
+All submissions will be processed through the Turnitin software.
+
+### Assessment Criteria
+
+This assessment contributes 30% of the unit grade. Submissions will be marked on the following criteria; 
+
+* 15% - Quality of information provided.
+This relates to the relevance of material, clarity of message, accuracy of information and use of examples/case studies. 
+
+* 15% - Visual Presentation & Formatting.
+This relates to the overall impact that the piece makes.
+Aspects such as colour, layout, fonts, images, referencing and amount of text will all be taken into consideration.
+Remember to refer to your slides/notes from the Research Communication class on Poster/Visual presentations for some good advice related to preparation and production.
+
+### Assessment Rubric
+
+| Criteria | Excellent (15/15) | Average (10/15) | Poor (3/15) | Unsatisfactory (0/5) |
+| --- | --- | --- | --- | --- |
+| Quality of information provided (15 marks) | The content is factual, relevant, clear and demonstrates a strong knowledge of the IP content and evidence of independent research. The case studies are relevant and compelling and help to convey the key points. Links to further reading are provided. | The content is a reflection of the lecture notes and doesn’t demonstrate independent research nor deep understanding of the topic. May contain minor factual errors. | The content contains severe factual errors or is off-topic. The case studies do not relate to the selected topic. | Not included/ unable to mark. |
+| Visual Presentation & Formatting (15 marks) | Visual design is attractive and takes advantage of visual design considerations such as use of diagrams, sparse use of text, appealing colour palette, and fonts | Design suffers from minor issues such as poor colour choices or text too small. | The content is cluttered and appears disorganised. No consideration given to the visual appearance or originality of the design. Unsure how diagrams relate to the IP topic. | Not included/ unable to mark. |
+
+Please use the discussion boards for your questions.

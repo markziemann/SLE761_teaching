@@ -1,0 +1,129 @@
+---
+title: "AT2 Research Project Proposal"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+SLE761 – Research Planning & Communication
+
+Trimester 2, 2021
+
+## Summative Assessment Task 2 - Research Project Proposal Preparation Guide and Rubric 
+
+The purpose of this assessment is for students to develop and apply skills in research project design in order to construct a well informed and considered scientific research proposal on a selected topic.
+The proposed project should be something that can be realistically conducted within a 9 month full time equivalent study period with a budget of $10,000.
+The choice of topic is yours and should relate to your interest areas, but it does not need to be based on the second year project that you will conduct during your course.
+Students are required to write a proposal that demonstrates their ability to consider the major factors and requirements in the design and management of a research project.
+Students are also required to demonstrate their ability to search current literature and use this as the basis and justification of their research proposal. 
+
+**Marks: 40% of the total mark for the unit.**
+
+**Submit assignment files to the unit site assignment drop-box.**
+
+**There are two parts to this assignment:**
+
+### Part 1: Research Proposal Project Report - Written
+
+The maximum word limit for the research proposal is 2500 words (not including the reference list).
+The research proposal is due at 8pm on Friday 17th September (Week 9).
+Submit via CloudDeakin.
+Submit your document in PDF format.
+The written research proposal is worth 30% of the total mark for the unit. 
+
+### Part 2: Research Proposal Project - Oral Presentation
+
+Students have 5-8 minutes to present their proposed research project.
+It should address the same criteria as the written document (described below).
+You have the choice to either record the oral presentation and upload to the unit site or deliver your oral presentation in seminar time via Zoom.
+You are free to experiment with different presentation formats such as narrated powerpoint slideshow, selfie video, podcast (audio only), interview format, etc.
+If you have other ideas, please consult the unit chair via the discussion board beforehand. The oral presentation is worth 10% of the total mark for the unit. 
+
+In your proposal you should address the criteria described below. It is a good idea to use the following subheadings in your written report.
+
+## Sections to include
+
+### 1. Project title and FOR/SEO/TOR codes (2 marks)
+
+Producing a good project title is a balancing act; it needs to be informative but understandable, and short (ideally 10 words or less) but still include the required detail. 
+
+Along with a project title, you should also provide the relevant FOR and SEO codes and a breakdown of the Type of Research (TOR) percentages for the project. Refer to Week One class material for further information. 
+
+### 2. Introduction (5 marks)
+
+Provide an overview of the background of the area, including a brief review of the pertinent literature.
+Use the resources that are discussed in the library session to assist you in sourcing quality information for this assignment and your future research endeavours.
+In addition, we will also discuss how to conduct a literature review in the coming weeks of the unit.
+Use the introduction to define the problem at hand and identify the “gaps in the literature” where you think the project could make an impact.
+
+### 3. Research question and specific aims (4 marks)
+
+Summarise your project with a single research question.
+Break this down into 2-5 well defined aims.
+Each of these aims will relate to experiments, observations, simulations or other analysis that are outlined in the research plan (below).
+The research question and aims need to be commensurate with the 9-month time-frame and allocated budget.
+For example, you will not solve climate change entirely with this short project, but you might be able to make a tangible impact in a specific niche (for example by reducing carbon emissions from one agricultural sector).
+
+### 4. Research plan and methodology (10 marks)
+
+Provide a coherent research plan along with the methodology that will be required to carry this out. You will need to provide an overview of the experimental techniques, equipment, types of data collected, computer software, data analysis approaches and any other technical aspects that will be required. If your project requires extensive and highly technical experiments, ensure these are described in the introduction. A good research plan will relate the aims (described in 3) with tangible experiments and analysis. These analyses should be comprehensive enough so that each aim can be conclusively verified/falsified. For example if you are performing a survey based research project you will need to provide information on:
+
+* How the participants will be recruited,
+
+* How many participants will be recruited,
+
+* Who the target respondents are (age group, gender, geography, etc),
+
+* What ethical clearance will be sought,
+
+* What sort of questions will be asked (provide a draft of the questionnaire in the appendix),
+
+* How the data will be stored,
+
+* What statistical analysis of the data will be conducted
+
+Note that performing a literature review should not be included in this research methodology section because it is assumed that the literature study has been completed before the commencement of the project.
+
+Additionally, the assessor will be evaluating the feasibility of the proposed research work. Ensure that it can be completed in the 9-month time-frame with the allocated budget.
+
+### 5. Expected outcomes and benefits of the proposed research project (5 marks)
+
+In this section you need to emphasize why this research project is important.
+Be clear in defining what the outputs of the project will be, along with the benefits of these.
+Who or what might benefit? Will the research benefit the broader public, industry partners, the University, the research team, the participants?
+Will those benefits be related to discovery of new knowledge, an invention that might be interesting for commercialisation and industrial use or applicable to improving human health and wellbeing?
+
+### 6. Proposed Timeline and risk assessment (2 marks)
+
+For your timeline, assume that you are to carry out this project in 2022, with a project start date of 1st February 2022 and a completion date of the 1st November 2022.
+Provide details of a systematic approach and key milestones for the project.
+You should also include the production of a research thesis in the timeline, as this will be the key deliverable output from the project.
+Consider the use of a GANTT chart to assist with this section.
+
+This section should also identify and address any areas of risk which could impact the project progress. This could involve external factors (e.g. social, political, organisational, environmental) or be related to parts of the methodology that involve some risk.
+
+### 7. Referencing (2 marks)
+
+Adherence to correct formatting of reference material (Deakin Harvard style), appropriate use of citations and the quality of the chosen references will all be assessed.
+It is suggested that at least 10 references will be required to adequately reference a proposal of this size.
+
+## Marking rubrics
+
+### Written component (30% of unit mark)
+
+30% of unit mark.
+
+| Criteria | Excellent (5/5) | Good (3/5) | Poor (1/5) | Unsatisfactory (0/5) |
+| ---- | ---- | ---- | ---- | ---- |  
+| Project title and FOR/SEO/TOR codes (2 marks) | An informative and easily understandable title. Short (less than 10 words) and enough detail. All research codes included. | A title with some detail or some vague or confusing aspects. Some research codes. | A title that is difficult to understand and confusing for the reader. No research codes. | Not included/ unable to mark. |
+| Introduction (5 marks) | A clear overview of the background of the topic area, including a brief review of the pertinent literature. Emphasizes clearly the research gap being addressed. Excellent spelling and grammar. | A basic overview of the topic area with acknowledgement of some literature. Did not identify the research gap. Good spelling and grammar however some poor writing structure. | A brief summary of the topic area, written in dot points and/ poorly constructed. Frequent spelling and grammatical issues. | Not included/ unable to mark. |
+| Research Question & Aims (4 marks) | A concise research question showing a strong understanding of research design. One to five specific research aims aligned to components of the research plan. | A research question with limited thought put into research design. Some accompanying aims, but not clear how they are related to the proposed experiments and analysis. | A vague research question with poor comprehension of research design. Specific aims missing or irrelevant. | Not included/ unable to mark. |
+| Research Plan and Methodology (10 marks) | A thorough description of the experimental and analytical techniques that will be required to address each of the research aims. A clear description of the design choices made. | Techniques/methods simply listed and missing detail about the rationale behind these design choices. | Techniques/methods simply listed and missing detail. | Not included/ unable to mark. |
+| Expected Outcomes and Benefits (5 marks) | Clear reasons for proposing the project and detailed identification of who/what the benefits are. | Reasons and benefits of the projects introduced. | Unclear as to the benefits of the project and/or the reasons for undertaking the research | Not included/ unable to mark. |
+| Proposed Timeline and risk assessment (2 marks) | An achievable timeline with important milestones clearly stated. Factors that could affect the success of the project were clearly identified along with actions to mitigate against them. | A timeline with milestones stated. Potential risks identified but no mitigation strategy proposed. |  A timeline with vague milestones. | Not included/ unable to mark. |
+| Referencing (2 marks) | All necessary information is correctly referenced and formatted. Cited sources are highly reputable. | Some information is cited. References are poorly formatted. | Frequently information is cited without appropriate referencing. Referencing is incorrectly formatted. | Not included/ unable to mark. Bibliography contains only a list of URLs. |
+
+Please use the discussion boards for your questions.

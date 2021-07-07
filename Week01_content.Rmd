@@ -1,0 +1,71 @@
+---
+title: "Week 1"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+SLE761 – Research Planning & Communication
+
+Trimester 2, 2021
+
+## 1.1 What is research and why do we do it?
+
+When did you last research something?
+A lot of the time we are doing it without realising it.
+For example when we are deciding on which phone to buy we will do some research about the features, cost etc.
+When planning a vacation we might do some research about the attractions in the area and whether the accommodation has the features we need.
+In short, research is the search for knowledge or truth.
+In our day to day lives, research consists of finding information/knowledge that already exists, but in the scientific sense research is a search for new knowledge. 
+
+There are various sources of information we can use, from books and magazines, to web-based articles, scientific journals as well as experts in the field.
+Scientists undertake experiments, observe phenomena, perform simulations and analyse data in order to create this new knowledge.
+These research activities may be undertaken by private companies, universities or government departments, but all contribute to advancing human progress.
+
+Research is incredibly important for a number of reasons.
+One could argue that the phenomenal increase in living quality and life expectancy over the past 200 years was driven mostly due to advancements stemming from research. 
+
+* Sanitation and public health
+
+* Maternal and infant mortality
+
+* Industrial agriculture
+
+* Medicines such as antibiotics
+
+* Telecommunications and the world wide web
+
+In addition to this, research together with journalism and public discourse sets the “common truths” which a society can agree upon.
+Without a common set of facts with which we collectively assume are true, it is difficult for society to progress in any meaningful way.
+For example, if climate change is not recognised in the discourse (media) as a serious threat, then there is little chance of there being legislative change to avert carbon pollution.
+
+There is now a great awareness that false information is a threat to this common set of truths.
+Indeed some commentators are saying we have entered a post-truth era, defined as an environment where facts are less influential in shaping public opinion than emotional appeals.
+
+Misinformation is described as the process by which individuals or media spread false information without checking the veracity of such information.
+Disinformation is defined as those with vested interests deliberately spreading misleading information to their own benefit. 
+
+The rise of the internet has resulted in a shrinking of the mainstream media (think newspapers, TV, public broadcasting, investigative journalism) in favour of forums that pander to peoples preconceived attitudes.
+This results in a divide between people with different points of view and could lead to fragmentation of the social fabric.
+Unfortunately, in the era of social media, false information tends to spread faster than the truth.
+
+Therefore it is incredibly important that objective research continues to collect the true knowledge, and the scientific enterprise is involved in the communication of this knowledge not only in the form of journal articles and books, but actively participating in the public discourse and engagement.
+Science and research need to be recognised as a public good and source of future wealth and wellbeing, and a factor in the decision making process at all levels of government.
+This engagement needs to cater to all age groups and demographics, but with special emphasis on children/young people who will be the leaders and influencers of the future.
+
+For example if the public at large are familiar with the biology of how viruses spread, they might be more willing to support and comply with public health measures like mask wearing and vaccination.
+Certainly now, the evidence is pointing to the fact that science education is among the most important predictors for success in controlling COVID-19.
+In summary, order for us to surmount the major challenges ahead of us as a society we need to have both a healthy research sector but also give young people a solid scientific education and continue this education process through life with ongoing scientific communication and engagement.
+
+## 1.2 How is scientific research conducted?
+
+Epistemology is the branch of philosophy concerned with knowledge. How is it that we recognise some information as true or false?
+Let’s recognise that science is built upon observations, facts and verification. In this regard, opinions, beliefs, faith and emotions do not matter. The scientific process begins with a person making some preliminary observations that lead them to a new idea or paradigm we call a “hypothesis”. At that point, the hypothesis may or may not be true, so it requires further investigation. Experiments, data collection and analysis are required to test conclusively whether this new idea is true or false. This step is called “falsification” and is one of the pillars of epistemology and modern scientific thinking and was popularised by philosopher Karl Popper (Popper 1974). 
+
+![Karl Popper](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Karl Popper")
+
+
+Please use the discussion boards for your questions.

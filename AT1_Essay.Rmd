@@ -1,0 +1,91 @@
+---
+title: "AT1 Part 1 Essay"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+SLE761 – Research Planning & Communication
+
+Trimester 2, 2021
+
+## Summative Assessment Task 1 - Part 1: Research Integrity and Ethics Essay Writing Guide and Rubric 
+
+**Due: Thursday 5th August (Week 4), 8:00pm AEST. Submit online via the unit site. Submit one PDF file.**
+
+The assessment for the Research Integrity and Ethics module is worth 20% of your overall unit mark.
+It is an individual assignment. 
+
+In this task you are required to demonstrate your understanding of research integrity and ethics and identify what should be considered when undertaking research.
+In addition, you will need to investigate a recent breach of integrity or ethical standards and provide a detailed description of the case. 
+
+Written communication is a vital learning outcome of your Master of Science Course. As such, a strong emphasis of this task will be placed on your writing style (including spelling and grammar). 
+Your writing should be in the form of a logical and structured argument or description that forms a cogent synthesis of ideas with appropriate referencing.
+A marking rubric that will be used to assess your assignment is provided at the end of this document.
+
+The maximum word count is 2500 (not including the reference list). Text should be 1.5 spaced in a 12 point font. Please adhere to Deakin Harvard style (author, year) in-text citations and bibliography. 
+
+**Note**
+Before starting this assignment, be aware of Deakin’s stance on academic integrity: https://www.deakin.edu.au/students/studying/academic-integrity Plagiarism, collusion and contract cheating are serious violations to these rules and can lead to severe penalties. Turnitin and other tools are used by assessors to spot such violations.
+
+*The Integrity and Ethics Essay is divided into two components as follows*
+
+### Part 1: An Overview of Research Integrity and Ethics (7 marks)
+
+As discussed in the content and seminars, research integrity and ethics are a crucial consideration when planning or undertaking research in any discipline. For this part of the assignment, you need to:
+
+1. Define in your own words what research integrity and ethics are and how these two concepts are different.
+
+2. Outline why research integrity and ethics are important in research and how they are monitored in Australia.
+
+3. Define a research field that you are interested in and identify the key research conduct/integrity/ethical issues that you think will be important if you were to undertake a research project in this area.
+Reflect on the topics covered in the integrity and ethics classes. What aspects of research integrity are most pertinent to this research area and why? It is important to introduce the research area or topic that you have identified.
+Your description should be clearly and concisely explained and written in a form that would allow a generalist scientific reader to understand it.
+Do not simply state potential ethical issues and leave it up to the reader to decide how these relate to your research area.
+Rather, discuss the ethical issues and how you would address them if you were to undertake a research project in this area.
+
+### Part 2: Scientific Misconduct Case Study (8 marks)
+
+In Part 2 of this task, you will take a deep dive into a particular case of breaches to Research Integrity.
+Introduce yourself in the Discussions area under “Assessment 1” and let us know why you are taking this unit and what research field you would like to pursue. 
+
+The unit chair will provide you with your particular research case related to your field of research interest. These cases could relate to different types of misconduct from fraud, data manipulation, fabrication, image manipulation, research ethics breaches, conflicts of interest and authorship breaches.
+The unit chair will provide you with a link to a blog post on your specific case which you can use as a starting point for your further independent research and investigation.
+Your report should include the following elements:
+
+* A detailed description of the controversy in your own words, highlighting the specific type of research misconduct that took place.
+
+* If the research misconduct did or had occurred in Australia, what parts of the Australian Code for the Responsible Conduct of Research would have been breached.
+
+The report should be in the form of a short editorial that you may see in the front section of journals such as Science and Nature.
+It should identify the misconduct issues and logically detail with substantive discussion and appropriate references to demonstrate how they represent misconduct and how they would breach the Australian Code for the Responsible Conduct of Research.
+Avoid highly emotive language and ensure that the parts of the code that were breached are referred back to the case with specific reference.
+
+## Marking Rubric
+
+### Part 1: Ethics in Research
+
+7 marks
+
+| Criteria | Excellent | Good | Poor | Unsatisfactory |
+| ---- | ---- | ---- | ---- | ---- |  
+| Importance of research ethics and monitoring (2 marks) | A substantial overview of importance, clearly distinguishing integrity and ethics issues. A clear  description of the monitoring systems in place in Australia. | A brief overview of the importance of integrity and research  and monitoring mechanisms. May contain small factual errors or lack of supporting evidence. | Shallow coverage of research integrity/ethics and monitoring but deficient in various aspects. Text relies on the reader filling in the gaps.| Not addressed |
+| Identification of research integrity issues associated with the defined research area. (3 marks) | Research area is clearly and concisely described. Integrity and ethical issues associated with the topic are clearly and logically described without factual errors and based on evidence. | Research area is not well defined. Numerous integrity/ethical issues associated with the topic are not described. | Minimal research area description. Probable ethical issues are stated. It is left to the reader to decide how these ethical issues relate to the topic. | There is no description of the research area. Ethical issues are not stated. |
+| Writing style (1 mark) | Prose is in the form of a synthesis of ideas. The arguments are carefully constructed and logically presented. The writing flows | Prose displays some evidence of a logical structure. Expressions are sometimes awkward. | Prose is a catalogue of who did what and when. The text is a flow of consciousness without an obvious logical structure. Text frequently repeats points or points are scattered throughout the text. | There is no prose or structure. Text consists of disjointed notes. |
+| Referencing, spelling and grammar (1 mark) | Cited information is referenced in accordance with the Deakin Harvard style including in-text citations and bibliography. Supporting references are from reputable sources. Correct grammar and flawless spelling. |  Some information is cited without appropriate referencing or in text citations. Grammatical and spelling mistakes at times. | Frequently information is cited without appropriate referencing. Inconsistencies between in text citations and bibliography. Numerous grammatical and spelling mistakes. | There is no referencing or a list of URLs provided. Very poor grammar and very frequent spelling mistakes make the text difficult to read. |
+
+### Part 2: Scientific Misconduct Case Study
+
+8 marks
+
+| Criteria | Excellent | Good | Poor | Unsatisfactory |
+| ---- | ---- | ---- | ---- | ---- |  
+| Selection of a suitable case and identification/ explanation of the areas of misconduct (4 marks) | Misconduct issues are identified in detail and substantiated. Substantiated discussion in the form of logical argument with appropriate references and detail. | Issues identified with some substantiated discussion. | Issues identified as a list without substantial discussion in the form of logical argument or references | Issues not identified |
+| Parts of the Australian code that have been breached (2 marks) | Breaches to specific sections are identified and logically argued and referenced in relation to the case. There is a critical assessment and explanation of how the code has been breached in relation to the case. | Breaches have been identified with some cross referencing and discussion in relation to the case. | Breaches have been identified as a simple list with no reference to the case. It is left up to the reader to decide how the code has been breached. | Breaches not identified. |
+| Writing style (1 mark) | Prose is in the form of a synthesis of ideas. The arguments are carefully constructed and logically presented. The writing flows. | Prose displays some evidence of a logical structure. Expressions are sometimes awkward. | Prose is a catalogue of who did what and when. The text is a flow of consciousness without an obvious logical structure. Text frequently repeats points or points are scattered throughout the text. | There is no prose or structure. Text consists of disjointed notes |
+| Referencing, spelling and grammar (1 mark) | Cited information is referenced in accordance with the Deakin Harvard style including in-text citations and bibliography. Supporting references are from reputable sources. Correct grammar and flawless spelling. | Some information is cited without appropriate referencing. Grammatical and spelling mistakes at times. | Frequently information is cited without appropriate referencing. Numerous grammatical and spelling mistakes | There is no referencing or a list of URLs provided. Very poor grammar and very frequent spelling mistakes.|
+
+Please use the discussion boards for your questions.
