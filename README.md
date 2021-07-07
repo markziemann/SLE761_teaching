@@ -1,2 +1,2 @@
-# SLE761_teching
+# SLE761_teaching
 Teaching files for SLE761
