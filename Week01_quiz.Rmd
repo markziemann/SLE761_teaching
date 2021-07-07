@@ -1,0 +1,361 @@
+---
+title: "Week 1 Quiz and discussion questions"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+## Quiz
+
+Toggle the menu to see whether your answers are correct.
+There is just one correct answer unless otherwise specified.
+
+### W1Q1 - What is the main goal of this unit?
+
+    A. Help you develop solid presentation skills
+    
+    B. Teach you how to correctly cite references in your assignment
+
+    C. Prepare you for a research/science career
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C. Prepare you for a research/science career
+  </p>
+</details>
+
+### W1Q2 - What is Turnitin for?
+
+    A. Ensure your work is original and authentic
+
+    B. Make sure you cite according to academic standards
+
+    C. Ensure plagiarism
+
+    D. Screen for spelling and grammatical errors
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. Ensure your work is original and authentic
+  </p>
+</details>
+
+### W1Q3 - What is the logical way of reasoning in the post-truth era?
+
+    A. Denial of climate change and humanitarian crisis
+    
+    B. Scientific facts guiding our decisions rather than beliefs
+
+    C. Following the opinions of leaders and public figures
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B. Scientific facts guiding our decisions rather than beliefs
+  </p>
+</details>
+
+### W1Q4 - A paradigm shift can be defined as:
+
+    A. Changing the direction of your research project's direction
+    
+    B. A fundamental change in accepted scientific facts
+
+    C. A new contribution to a field of science
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B. A fundamental change in accepted scientific facts
+  </p>
+</details>
+
+### W1Q5 - What are amongst the most important characteristics of scientific results?
+
+Hint: Multiple correct options.
+
+    A. Must be reproducible
+
+    B. Should be accepted by everyone
+
+    C. Results have to be substantiated
+
+    D. Must invoke faith
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A & C - Must be reproducible and substantiated.
+  </p>
+</details>
+
+### W1Q6 - If you are curious about the diversity of plants in your backyard, this research could be categorized as:
+
+    A. Applied research
+
+    B. Strategic basic research
+
+    C. Experimental development
+
+    D. Basic research
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D. Basic research 
+  </p>
+</details>
+
+### W1Q7 - If you carry your exploration forward to understand the rate and condition of edible indigenous plants, you are conducting:
+
+    A. Applied research
+    
+    B. Experimental development
+    
+    C. Basic research
+
+    D. Strategic basic research
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D. Strategic basic research 
+  </p>
+</details>
+
+### W1Q8 - You want to see if native plants will cope better to pests and drought than introduced plants in your garden, you are conducting:
+
+    A. Strategic basic research
+
+    B. Experimental development
+
+    C. Applied research
+
+    D. Basic research
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C. Applied research
+  </p>
+</details>
+
+### W1Q9 - Please choose a statement/statements that defines plagiarism
+
+There are multiple correct options.
+
+    A. Using sections from your previous essays for other subjects
+
+    B. The shortest way to accomplish the task
+
+    C. Representation of another author's work/ideas without citing
+
+    D. Getting over inspired by one’s work
+
+    E. Using sections from your colleagues' previous essays
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A, C and E. 
+  </p>
+</details>
+
+### W1Q10 - Why is research integrity crucial in scientific research?
+
+    A. We should not trust any knowledge
+    
+    B. To better communicate scientific knowledge to society
+    
+    C. We need to trust the new knowledge presented by other researchers
+    
+    D. To help persuade the public with disinformation
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B. To better communicate scientific knowledge to society
+  </p>
+</details>
+
+
+
+### W1Q11 - Asking your mate to use his/her unpublished work (assignment, essay) from the last year’s lecture for yourself is…
+
+    A. Short way to accomplish your task
+
+    B. Collusion
+    
+    C. Plagiarism
+    
+    D. Acceptable if the essay was given a pass grade
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: Collusion. You are also plagiarising.
+  </p>
+</details>
+
+### Select two measures to overcome plagiarism
+
+    A. Put the ideas in your own words
+
+    B. Cite the source
+
+    C. Slightly paraphrase an idea of someone else
+
+    D. Always use quotes
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. Put the ideas in your own words
+  </p>
+</details>
+
+### What are the consequences of plagiarism or collusion?
+
+    A. A fine
+
+    B. All of the above
+
+    C. A zero mark for the assignment
+
+    D. Failing the unit
+
+    E. Facing the consequences in the later stages of your career
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B. All of the above
+  </p>
+</details>
+
+
+### While citing the references you used in your study;
+
+    A. Use the format required by the unit/publisher
+    
+    B. Use any format most convenient to you
+
+    C. You should only cite the most important works
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. Use the format required by the unit/publisher
+  </p>
+</details>
+
+### Which of the following statements are correct?
+
+May be multiple correct options.
+
+    A. All references in the reference list must be cited in the text
+
+    B. Reference cited in the text must be in the reference list
+
+    C. You do not need to cite everything
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A & B.
+  </p>
+</details>
+
+### Which is the correct way to cite a three-author paper incorporated in a sentence using the Harvard System?
+
+    A. Cooper, Wolowitz and Fowler (2020)
+
+    B. Cooper and colleagues (2020)
+
+    C. Cooper et al. (2020)
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. Cooper, Wolowitz and Fowler (2020)
+  </p>
+</details>
+
+### Should a direct quote include the sentence in quotation marks together with the citation to the reference?
+
+    YES or NO?
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: Yes
+  </p>
+</details>
+
+### What does the order of authors represent? 
+
+    A. Their effort in fundraising
+
+    B. Their seniority within the academic community
+
+    C. Their contribution to the paper
+
+    D. The amount of experiments done
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: Their contribution to the paper
+  </p>
+</details>
+
+
+### In the Harvard reference system, how should you order literature in the reference list?
+
+A. Alphabetically
+
+B. In the order of appearance
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. Alphabetically
+  </p>
+</details>
+
+## In class questions for discussion.
+
+Take some time this week to write your own individual responses to these questions and note down any doubts you may have.
+In the Zoom in week 2, we will discuss your answers/perspectives in a relaxed and safe environment.
+We will also touch upon how to get started with your first assessment task.
+Some of these questions are closely linked to parts of assessment task 1 so be sure to participate.
+
+### W1D1 - Why do you want to get involved in research?
+
+### W1D2 - Is it always necessary to always base your scientific project and experiments around hypothesis testing?
+
+### W1D3 - Provide one example of (i) Basic, (ii) Strategic Basic Research, (iii) Applied research and (iv) Experimental development
+
+### W1D4 - Lookup the 2020 FOR and SEO codes for the following application
+
+Wastewater treatment plant design improvements.
+There might be more than one SEO and FOR code. Use the ARC website: https://www.arc.gov.au/grants/grant-application/classification-codes-rfcd-seo-and-anzsic-codes
+
+### W1D5 - Why is ethics in research conduct important?
+
+### W1D6 - How is research conduct monitored in Australia?
+
+### W1D7 - In your desired research field, what are the major research conduct issues?
+
+### W1D8 - What are some examples of good scientific conduct?
+
+### W1D9 - Does academia reward researchers that strongly abide by these good practices?
+
+### W1D10 - Are web resources like Retraction Watch and PubPeer enhancing public trust in science?
+
+### W1D11 - Are synonimisers useful tools for writing essays or a form of cheating?
