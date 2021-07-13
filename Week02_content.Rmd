@@ -1,0 +1,70 @@
+---
+title: "Week 2 content"
+author: "Mark Ziemann"
+date: "13/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+## 1.1 What is research and why do we do it?
+
+```{r,diagram1}
+
+library("DiagrammeR")
+grViz("digraph flowchart {
+      # node definitions with substituted label text
+      node [fontname = Helvetica, shape = rectangle]        
+      tab1 [label = '@@1']
+      tab2 [label = '@@2']
+      tab3 [label = '@@3']
+      tab4 [label = '@@4']
+      tab5 [label = '@@5']
+      tab6 [label = '@@6']
+      tab7 [label = '@@7']
+      tab8 [label = '@@8']
+      
+      # edge definitions with the node IDs
+      tab1 -> tab2 
+      tab2 -> tab3
+      tab2 -> tab4
+      tab4 -> tab5  
+      tab5 -> tab1 
+      tab3 -> tab6 
+      tab6 -> tab7
+      tab7 -> tab2 
+      tab6 -> tab8  ;
+      }
+      
+      [1]: 'Draft animal ethics application'
+      [2]: 'Ethics Committee Evaluation'
+      [3]: 'Approved'
+      [4]: 'Denied'
+      [5]: 'Amend application'
+      [6]: 'Go ahead (with monitoring)'
+      [7]: 'Amendments needed'
+      [8]: 'Complete research and submit final report'
+      ")
+
+```
+
+## Reference List
+
+Australian Bureau of Statistics (1998) Chapter - Chapter 2. Type of Activity classification. Available at: https://www.abs.gov.au/ausstats/abs@.nsf/66f306f503e529a5ca25697e0017661f/22E4C184CA111129CA25697E0018FD78?opendocument (Accessed: July 5, 2021).
+
+Begley, C. G. (2013) “Six red flags for suspect work: Reproducibility,” Nature, 497(7450), pp. 433–434.
+
+Deakin University (2016) Academic Integrity, Edu.au. Available at: https://www.deakin.edu.au/students/study-support/referencing?a=60101 (Accessed: July 7, 2021).
+
+Deakin University (2020) Harvard, Edu.au. Available at: https://www.deakin.edu.au/students/studying/study-support/referencing/harvard (Accessed: July 7, 2021).
+
+Glass, D. J. (2010) “A critique of the hypothesis, and a defense of the question, as a framework for experimentation,” Clinical chemistry, 56(7), pp. 1080–1085.
+
+Kaelin, W. G., Jr (2017) “Publish houses of brick, not mansions of straw,” Nature, 545(7655), p. 387.
+
+Kuhn, T. S. (1970) The structure of scientific revolutions: Vol.2, no.2. 2nd ed. Chicago, IL: University of Chicago Press.
+
+Popper, K. (1974) The logic of scientific discovery. London, England: HarperCollins.
+
+The National Health and Medical Research Council (2018) Australian Code for the Responsible Conduct of Research, 2018, The National Health and Medical Research Council. Available at: https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018 (Accessed: July 6, 2021).
