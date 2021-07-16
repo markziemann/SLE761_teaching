@@ -202,7 +202,7 @@ There are multiple correct options.
   </p>
 </details>
 
-### Select two measures to overcome plagiarism
+### W1Q12 -Select two measures to overcome plagiarism
 
     A. Put the ideas in your own words
 
@@ -219,7 +219,7 @@ There are multiple correct options.
   </p>
 </details>
 
-### What are the consequences of plagiarism or collusion?
+### W1Q13 -What are the consequences of plagiarism or collusion?
 
     A. A fine
 
@@ -239,7 +239,7 @@ There are multiple correct options.
 </details>
 
 
-### While citing the references you used in your study;
+### W1Q14 -While citing the references you used in your study;
 
     A. Use the format required by the unit/publisher
     
@@ -254,7 +254,7 @@ There are multiple correct options.
   </p>
 </details>
 
-### Which of the following statements are correct?
+### W1Q15 -Which of the following statements are correct?
 
 May be multiple correct options.
 
@@ -271,7 +271,7 @@ May be multiple correct options.
   </p>
 </details>
 
-### Which is the correct way to cite a three-author paper incorporated in a sentence using the Harvard System?
+### W1Q16 -Which is the correct way to cite a three-author paper incorporated in a sentence using the Harvard System?
 
     A. Cooper, Wolowitz and Fowler (2020)
 
@@ -286,7 +286,7 @@ May be multiple correct options.
   </p>
 </details>
 
-### Should a direct quote include the sentence in quotation marks together with the citation to the reference?
+### W1Q17 -Should a direct quote include the sentence in quotation marks together with the citation to the reference?
 
     YES or NO?
 
@@ -297,7 +297,7 @@ May be multiple correct options.
   </p>
 </details>
 
-### What does the order of authors represent? 
+### W1Q18 -What does the order of authors represent? 
 
     A. Their effort in fundraising
 
@@ -315,7 +315,7 @@ May be multiple correct options.
 </details>
 
 
-### In the Harvard reference system, how should you order literature in the reference list?
+### W1Q19 -In the Harvard reference system, how should you order literature in the reference list?
 
 A. Alphabetically
 

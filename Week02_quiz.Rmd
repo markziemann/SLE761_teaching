@@ -1,0 +1,456 @@
+---
+title: "Week 1 Quiz and discussion questions"
+author: "Mark Ziemann"
+date: "07/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+## Quiz - Research integrity
+
+Toggle the menu to see whether your answers are correct.
+There is just one correct answer unless otherwise specified.
+
+### W2Q1 - In your thesis, are you allowed to include a sentence copied word-for-word from a review article written by the leading researcher in your field?
+
+    YES or NO?
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: NO
+  </p>
+</details>
+
+### W1Q2 - What about a short paragraph describing one aspect of your research methodology, taken from a paper written by your supervisor?
+
+    YES or NO?
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: NO
+  </p>
+</details>
+
+### W2Q3 - Are you allowed to use a diagram copied from a textbook?
+
+    A. No
+    
+    B. Yes
+
+    C. It depends
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C. It depends on the license of the textbook. If it is under copyright, then written permission must be sought first.
+  </p>
+</details>
+
+### W2Q4 - Is including a photograph of a specimen that you want to discuss in your literature review, taken from a journal article OK?
+
+    A. No
+    
+    B. Yes
+
+    C. It depends
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C. It depends on the license of the journal article and source image. If it is under copyright, then written permission must be sought first.
+  </p>
+</details>
+
+### W2Q5 - What about a definition that accurately describes one of the technical terms that you will be using throughout your thesis, copied from Wikipedia?
+
+    A. No
+    
+    B. Yes
+
+    C. It depends
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C. It depends. If the text is quoted, then it might be acceptable.
+  </p>
+</details>
+
+### W2Q6 - You are planning to study the social impacts of COVID-19 on employees in the hospitality sector. Which additional approval will you need?
+
+    A. Australian Hotels Association
+
+    B. Funder Approval
+
+    C. University Department Approval
+
+    D. Human Research Ethics Committee
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D. If it involves surveys and interviews then it must be approved by a HREC
+  </p>
+</details>
+
+### W2Q7 - If you carry your exploration forward to understand the rate and condition of edible indigenous plants, you are conducting:
+
+    A. Applied research
+    
+    B. Experimental development
+    
+    C. Basic research
+
+    D. Strategic basic research
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D. Strategic basic research 
+  </p>
+</details>
+
+### W2Q8 - When should you apply for human research ethics commitee approval?
+
+    A. Before your thesis dissertation seminar
+
+    B. Before commencing research
+
+    C. After recruiting participants
+
+    D. Before writing the research article
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B.
+  </p>
+</details>
+
+### W2Q9 - Your research is on the stress responses in cats due to isolation.  Which additional approval will you need to start your research?
+
+    A. Animal Ethics Committee
+
+    B. The Department of Environment, Land, Water and Planning (DELWP)
+
+    C. People for the Ethical Treatment of Animals (PETA)
+
+    D. University Department Approval
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A.
+  </p>
+</details>
+
+### W2Q10 - You want to try a new vaccine for a contagious virus on guinea pigs. Which additional approvals will you need to start your research? (Please select two)
+
+Hint: There are two correct answers.
+
+    A. University biosafety and biosecurity
+    
+    B. Chief Medical Officer
+    
+    C. Animal Ethics Committee
+    
+    D. Office of the Gene Technology Regulator (OGTR)
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A & C.
+  </p>
+</details>
+
+### W2Q11 - Which of the following legal issues are covered under Australian Code of Conduct?
+
+    A. Sponsorship agreements and contracts
+
+    B. Copyright management
+    
+    C. Commonwealth legal requirements
+    
+    D. Victorian legal requirements
+    
+    E. All of the above
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: E
+  </p>
+</details>
+
+### W2Q12 - Which of the following is required from researchers under data management requirements?
+
+    A. Providing public access
+
+    B. Retaining and storing research data and primary materials
+
+    C. Taking a photo of the field notes
+
+    D. Recording all zoom conversations with the supervision team
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B
+  </p>
+</details>
+
+### W2Q13 - Which statements are considered as data falsification?
+
+    A. Interpolating your data without mentioning within your methods.
+
+    B. Omission of data that doesn't "fit" in with the rest of your results
+
+    C. Mistake in data entry
+
+    D. All of the above
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D
+  </p>
+</details>
+
+
+### W2Q14 - Which statement should be considered as a questionable research practice?
+
+    A. Wrong interpretation or use of statistical analyses
+    
+    B. Reporting nul or negative results
+
+    C. Citing both supporting and contradicting research which discussing your results
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A. 
+  </p>
+</details>
+
+### W2Q15 - Which one is correct?
+
+    A. Funder has say on authorship 
+
+    B. You should include all researchers that comply with authorship criteria
+
+    C. Corresponding author should decide on this
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B.
+  </p>
+</details>
+
+### W2Q16 - What is the approximate number of rodents used in medical research each year?
+
+    A. one thousand
+
+    B. one million
+
+    C. one billion
+
+    D. one trillion
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C.
+  </p>
+</details>
+
+### W2Q17 - Which of the following animal groups require Animal Ethics approval before they can be used for research?
+
+    A. Fish with a yolk sac
+
+    B. Juvenile Crustaceans
+
+    C. Adult cephalopods
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C.
+  </p>
+</details>
+
+### W2Q18 - Which of the following must comprise the membership of an Animal Ethics Committee?
+
+    A. Veterinary surgeon
+
+    B. Research scientist
+
+    C. Animal welfare advocate
+
+    D. Layperson
+
+    E. All of the above
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: E.
+  </p>
+</details>
+
+### W2Q19 - What are the principals of the ‘Three R’s’ in the animal ethics code?
+
+    A. Reduce-Reuse-Recycle
+
+    B. Reduce-Replace-Refine
+
+    C. Refrain-Replenish-Reproduce
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B.
+  </p>
+</details>
+
+### W2Q20 - What does the ‘respect’ principle entail?
+
+    A. Ensure results are in line with the participants viewpoint
+
+    B. Give the participants the option to opt in and out
+
+    C. Exploit participants rights
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B.
+  </p>
+</details>
+
+### W2Q21 - What best defines the ‘beneficence’ principle?
+
+    A. Participants receive a personal benefit
+
+    B. No one is physically, psychologically or financially harmed
+
+    C. There is a risk of injury, but it's okay if prisoners are used
+    
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: B.
+  </p>
+</details>
+
+### W2Q22 - Which of the following would be considered low risk research?
+
+    A. Medical treatments
+
+    B. Methods that involve personal information
+
+    C. Collection of organs or tissue
+
+    D. None of the above
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D.
+  </p>
+</details>
+
+### W2Q23 - Which of the following has to be specified in the Plain Language Statement?
+
+    A. Aims, risks and benefits of the research
+
+    B. The experimental design and statistical analysis
+
+    C. Budget and timeline
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: A.
+  </p>
+</details>
+
+### W2Q24 - In obtaining consent from human participants in research it is important to: 
+
+    A. Eliminate coercion
+
+    B. Ensure parent or guardian of the participant consents to a minor's participation
+
+    C. Inform participants of their rights
+
+    D. All of the above
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: D.
+  </p>
+</details>
+
+### W2Q25 - You are not required to get consent if you use data from:
+
+    A. Twitter feed on voting behaviour
+
+    B. Interviews with criminals
+
+    C. Anonymous government database on consumption choices
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C.
+  </p>
+</details>
+
+### W2Q26 - The Human Ethics Committee is required to:
+
+    A. Ensure that approprite statistical tests are used to analyse the data
+
+    B. Ensure that all research is published in a scientific journal
+
+    C. Ensure that participants are treated fairly *
+
+    D. Review the research article draft before publication
+
+<details>
+  <summary>Click to see the solution!</summary>
+  <p>
+  ANS: C.
+  </p>
+</details>
+
+
+## In class questions for discussion.
+
+
+### Research involving animals
+
+1. Would Drosophila, C. elegans, Zebrafish, gastropod, frog, mouse cell culture need animal ethics approval?
+
+2. What is the distinctive feature of those animals that do or do not require animal ethics approval?
+
+3. What is the role of an animal ethics committee and what type of people are involved?
+
+4. Open discussion about the ethics of this study: Traumatic Brain Injury Induces Impulsivity
+
+
+### Research involving humans
+
+1. What types of research could be considered under the exempt or low risk categories?
+
+2. Open discussion about surveys: what sort of topics could be classed as sensitive and potentially psychologically damaging?
+
+3. Open discssion: what are the implications on the use of the Eduard Pernkopf anatomy book in surgical schools
+
+4. What are the responsibilities of researchers in keeping personal information like surveys and consent forms?
+
+5. What are "incidental findings" and why is this so important for the field of genomics?
