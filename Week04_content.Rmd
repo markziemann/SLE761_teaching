@@ -1,0 +1,51 @@
+---
+title: "Week 4 content"
+author: "Mark Ziemann"
+date: "13/07/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+Hi everyone, over the past few weeks there has been a lot of content and this has left less time for applying your knowledge and preparing your assessments.
+Indeed, the research integrity and ethics deadline is approaching rapidly.
+Therefore, this week there will be no additional content, and your focus should be on completing the 
+
+## 4.1 Finding your research niche
+
+What drives and motivates researchers:
+
+* Making discoveries that will improve the lives of others
+
+* Doing stuff that is fun
+
+* Paying the bills
+
+As I write this I am reminded about the Japanese expression Ikigai (pronounced “eye-ka-guy”) which roughly translates to “reason for being.”
+
+<img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fchrismyers%2Ffiles%2F2018%2F02%2Fikigai-1.jpg" alt="ikigai" width="50%" />
+
+I think of it as our own place in the world where we are satisfied with how our work contributes to a better world as well as being personally enriching, intellectually as well as financially.
+For me, after doing a 12 month internship at a research institute, I couldn't imagine a career in a different profession.
+It is a fast-paced industry where day to day tasks are constantly changing, constantly learning new techniques in the laboratory, field, in data analysis and communication skills.
+The results we collected, were original, expanded our knowledge on a particular topic which was beneficial to humankind.
+
+It sounds great, but getting started in research (and many other professions) is extraordinarily difficult these days.
+
+So where do you start?
+
+### 4.1.1 Begin with your interests and strengths
+
+Which research topics are you passionate about?
+
+What are the big problems with the world that you are interested in solving?
+
+Do you have skills that give you an advantage in a particular discipline?
+
+## 4.2 Coming up with a research question
+
+## 4.3 Reviewing the literature
+
+## 4.4
+
