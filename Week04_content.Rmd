@@ -1,51 +1,248 @@
 ---
 title: "Week 4 content"
 author: "Mark Ziemann"
-date: "13/07/2021"
+date: "02/08/2021"
 output:
   html_document:
     toc: true
 theme: cosmo
 ---
 
-Hi everyone, over the past few weeks there has been a lot of content and this has left less time for applying your knowledge and preparing your assessments.
-Indeed, the research integrity and ethics deadline is approaching rapidly.
-Therefore, this week there will be no additional content, and your focus should be on completing the 
+What we are going to do this week is get you started thinking about your topic for Assessment Task 2 - Research Proposal.
+This assessment is designed to give you a head start on planning your major research project in the 2nd year of your Master's degree.
+Selecting a research topic, research question and designing the experiments requires a lot of background knowledge in the topic at hand, so it is a difficult process.
+So in this weeks material, we will walk you through the process.
+
+Key to this process will be your notebook.
+In reality it could be a physical book, document or app where you will record your
+
+* answers to the questions below
+
+* ideas when they pop into your head, and
+
+* the details about important research publications.
 
 ## 4.1 Finding your research niche
 
-What drives and motivates researchers:
+What drives and motivates you to enroll in this unit and start a career in research?
 
-* Making discoveries that will improve the lives of others
+* Making discoveries that will improve the lives of others?
 
-* Doing stuff that is fun
+* Doing stuff that is fun?
 
-* Paying the bills
+* Something to pay the bills?
+
+Write down your priorities in your notebook.
 
 As I write this I am reminded about the Japanese expression Ikigai (pronounced “eye-ka-guy”) which roughly translates to “reason for being.”
 
 <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fchrismyers%2Ffiles%2F2018%2F02%2Fikigai-1.jpg" alt="ikigai" width="50%" />
 
 I think of it as our own place in the world where we are satisfied with how our work contributes to a better world as well as being personally enriching, intellectually as well as financially.
+
 For me, after doing a 12 month internship at a research institute, I couldn't imagine a career in a different profession.
 It is a fast-paced industry where day to day tasks are constantly changing, constantly learning new techniques in the laboratory, field, in data analysis and communication skills.
 The results we collected, were original, expanded our knowledge on a particular topic which was beneficial to humankind.
+It also gave me the opportunity to work with amazing teams of researchers and travel abroad to conferences, meetings and traning events.
 
 It sounds great, but getting started in research (and many other professions) is extraordinarily difficult these days.
 
 So where do you start?
 
-### 4.1.1 Begin with your interests and strengths
+## 4.2 Begin with your interests and strengths
 
-Which research topics are you passionate about?
+1. Which research topics are you passionate about?
 
-What are the big problems with the world that you are interested in solving?
+2. What are the big problems with the world that you are interested in solving?
 
-Do you have skills that give you an advantage in a particular discipline?
+3. Do you have skills that give you an advantage in a particular discipline?
 
-## 4.2 Coming up with a research question
+Record these in your notebook.
 
-## 4.3 Reviewing the literature
+## 4.3 General reading
 
-## 4.4
+Here my advice is to read up on the recent developments in your research area over the past few years.
+This is not the same as a thorough literature review, but it should get you up to speed on a topic relatively quickly.
+Try these strategies:
 
+Find a popular science book on your topic (related to your answers to questions 1 and 2 above). 
+These books are effective at summarising complex issues and decades of research into more understandable information.
+They are often written by outstanding writers and you can take note of the techniques they use, like sentence structure, revealing information in sequence, and drawing ideas with metaphors and analogies.
+There are many good examples of popular science, write on the discussion board which is your personal favourite.
+Mine is *The Elegant Universe* (Greene, 2004).
+
+Science magazines are also another good source of general information, they often include special issues which include a series of articles on a related topic.
+I would classify *Nature* and *Science* as magazines because they have a mixture of formal and specialised scientific research articles as well as material for a general reader.
+
+The university library provides access to these resources and don't hesitate to ask a librarian for help to get a particular book or journal article.
+Here is the link to the [website](https://www.deakin.edu.au/library/help).
+
+Continue to record your notes and ideas into your notebooks as you read and think.
+
+## 4.4 Plugging into local research expertise
+
+A successful research project requires a good knowledge of a topic, valid design of experiments and interpretation of data.
+This is why I recommend plugging into local knowledge and expertise.
+A really great project often comes from the contribution by the student and advice from a project supervisor.
+Find out who the Deakin experts are in the topics you are interested in.
+Don't limit yourself to Deakin School of [Life and Environmental Science](https://www.deakin.edu.au/life-environmental-sciences/staff-listing), there may be experts in other schools and faculties.
+You can also cast your net wider to other organisations and businesses, but realise that individuals at other organisations have no incentive to undertake supervisory duties of a Deakin student.
+
+Introduce yourself to them via email and let them know that you are keen to do a research project on a topic related to their expertise.
+Let them know you are in the early planning stage, and when the project is expected to start and end.
+Ask them about opportunities in their group or elsewhere.
+Provide them with a CV with cover letter, academic transcript and portfolio if you have one.
+Request a meeting and ask about reading resources on the topic.
+Here is an example:
+
+<hr>
+
+> Hello Professor Ritchie,
+
+> My name is Jenny and I am in the first trimester of my Masters of Sustainability (Waurn Ponds campus). 
+> I am in the process of planning my major research project which will run from March to November 2022. 
+> I am passionate about wildlife, and looking at doing a research project to better understand how human activities impact wildlife biodiversity in Australia.
+> I saw your Deakin staff profile and that you might be the best person to speak to about planning a project.
+
+> I know you are probably very busy with teaching right now but it would be great if we could have a chat about a potential project opportunities.
+> It would be very helpful if you could provide links to review articles on the topic so I can do some background reading.
+> I have attached my CV, portfolio and academic transcript for your information.
+
+> Many thanks for your consideration,
+
+> Jenny Brown
+
+> Student number: 123456789
+
+> Waurn Ponds campus
+
+<hr>
+
+It is also important to be polite and keep the email brief.
+Don't be disappointed if they don't reply immediately, give it a week and then send a reminder.
+If they don't respond a second time, it likely means they are too busy to provide any assistance.
+Don't worry, try someone else.
+
+One thing I will stress is to customise your message for the recipient - if you send a mass email to a whole department you likely won't get any positive responses.
+Be targeted and considerate to the recipient's time.
+
+If you get a meeting, great!
+Take notes and if it is conducted via Zoom or another online platform, ask to record the meeting so you can review it in future.
+Write down your notes and ideas in the notebook.
+
+## 4.5 Refining your research area with a literature review
+
+Now that you have some general knowledge about the topic through your reading, study and contact with experts in the field, you will now have some appreciation of the priority areas for future research in your discipline.
+
+The next phase is to identify what the research gaps are in your discipline.
+This is not easy to do and requires a good knowledge of the literature and historical perspective of the discipline.
+
+The most efficient strategy I've found is to identify and read one or two recent review articles in the area.
+These articles are helpful because they summarise recent developments in the field, and identify the research gaps which you could target with your research question.
+
+Personally I like to use Google Scholar to find influential review articles by searching with keywords closely related to the topic.
+Prioritise reviews that are recent and have lot of citations.
+(In subsequent weeks you will learn how to query the library databases
+
+Your reading here should highlight what the knowledge gaps are; note these in your notebook.
+
+Now look at the dates of publication of those reviews.
+If the most recent review was 2018, then you are missing research from 2018 - 2021, so you will need to perform another search for original research articles published in this period.
+You can use Google Scholar again, setting a more recent publication date as per the below example.
+
+![Google Scholar example](images/crispr.png "Google Scholar example")
+
+Collect 5-10 articles from this period and read the abstracts.
+If they are related to your topic then read the full text and keep adding to your notebook with questions and project ideas.
+In addition, scan the reference list, as it might contain articles of importance that you have previously missed.
+Collate all the relevant references into your notebook as URLs, and it is a good idea to start using a citation manager to keep them in order.
+
+I like to use [BibGuru](https://app.bibguru.com/) because it is a relatively simple process to import new sources, and the bibliography can be exported in different formats.
+You are free to use any reference manager that you like, in particular EndNote is a good choice because you can download it from the university software store and there are numerous tutorial videos and support provided by the Deakin Library.
+
+At this point you will begin to have some idea about the topic you are targeting and beginning to form the research question.
+
+## 4.6 Coming up with a research question and aims
+
+This is the most critical part of planning your project because the question dictates what types of experiments and analyses are required for successful completion.
+
+* **The question needs to be on a topic you are passionate about.**
+You are not going to be satisfied with your project if it is on a topic you dislike.
+Even if the project is successful, you are setting yourself up for a future career in a discipline you don't like.
+
+* **It needs to lead to important research outcomes.**
+A successful research project typically involves a research question that hasn't been answered before.
+It leads to novel discoveries, and new knowledge.
+In some cases however, it is worthwhile to repeat a previous study.
+For example, if there was a drug trial that showed interesting results but the sample size was too small to be conclusive, it may be useful to replicate the study with a larger sample size.
+Other times, replication is useful to confirm findings are true if there is some doubt about their validity, for example Begley and Ellis (2012) attempted to replicate 53 seminal discoveries in cancer biology but were able to confirm only 6.
+
+* **The question needs to be answerable**
+The research question needs to be something that can be addressed in the limited time-frame and resources that are available to you.
+You won't cure cancer or solve climate change in a 9 month period, the scope needs to be realistic.
+The research question needs to be clear and unambiguous.
+As the fortune cookie below says: "A problem clearly stated is a problem half solved."
+
+![Fortune Cookie for research planning](images/fc.png "Fortune Cookie for research planning")
+
+You may have more than one research question for your project, which is totally fine, just be cognisant that your time and resources are limited.
+
+You should also write some aims of your research project, which will compartmentalise the smaller milestones that need to be achieved for you to successfully address your research question.
+
+## 4.7 An example research question and aims
+
+For example, our hypothetical student Jenny has come up with a research question after considerable study and a discussion with Prof Ritchie related to the mouse plagues that affected Australian farmers in 2020/2021 (Henry 2021).
+
+> *Can predatory birds protect against mouse plagues? *
+
+She then came up with four aims that will help her focus her studies to address the question:
+
+* Aim 1: Identify cropping areas in Australia where there are high and low populations of predatory birds (4 locations each).
+
+* Aim 2: Collect data on mouse and predatory bird population in these 8 locations across the warm season when mice numbers are highest
+
+* Aim 3: Use statistical analysis to determine whether predatory bird numbers protect against plagues.
+
+* Aim 4: Devise strategies that could be used to boost predatory bird numbers in areas experiencing mouse plagues.
+
+As you can see, Jenny's project will involve different stages, (i) background research to identify the locations most suitable to observation, (ii) data collection in the field, (iii) analysis of the data, and (iv) interpretation of the data.
+
+Importantly, in Jenny's example she has defined two groups of locations to compare.
+One set of location will be the "control" locations where predatory bird numbers are very low.
+The second set of locations will be the "experimental" group, where there is a high density of predatory birds.
+It is critical to have both, because observations in just one group are not good enough.
+
+Your research project proposal should be similar in that it will require some data collection and some type of data analysis.
+The type of data collection will be different, for example laboratory tests, field data collection, surveys, interviews, historical analysis, etc.
+Jenny's example she will have collected data about predatory bird mouse populations at the 8 sites.
+She will use statistical techniques like t-tests and linear modeling to determine whether high populations of predatory birds can keep mouse populations under control.
+
+## 4.8 Closing thoughts
+
+In previous years, there have been students who have proposed research projects that are just dressed up literature reviews, this is not satisfactory.
+There needs to be a strong research question and aims, data collection, experimentation and/or data analysis.
+The one exception to this could be a meta-analysis or systematic review which serve an important function to aggregate diverse published data to generate new findings (Greenhalgh 1997).
+
+Your research questions and aims can change and evolve and be refined as your project progresses.
+The research project you propose in this assignment does not have to be the one you pursue in your major project.
+
+There is a maxim which I refer to often:
+
+> *"Chance favours the prepared mind"* - Louis Pasteur
+
+What you should take from this is that early preparation is the way to give you the biggest advantage in capturing opportunities when they arise.
+The Assessment Task 2 deadline is about 6 weeks away, so it's time to start sketching your ideas down on your notebook.
+
+For further reading please read the article called "What is the question?" by Yanai and Lercher (2019).
+
+## 4.9 References
+
+Begley, C. G. and Ellis, L. M. (2012) “Drug development: Raise standards for preclinical cancer research: Drug development,” Nature, 483(7391), pp. 531–533.
+
+Greene, B. (2004) The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory. New York, NY: Vintage Books.
+
+Greenhalgh, T. (1997) “How to read a paper: Papers that summarise other papers (systematic reviews and meta-analyses),” BMJ, 315(7109), pp. 672–675.
+
+Henry, S. (2021) “‘No one ever forgets living through a mouse plague’: the dystopia facing Australian rural communities, explained by an expert,” The Conversation, 30 April. Available at: http://theconversation.com/no-one-ever-forgets-living-through-a-mouse-plague-the-dystopia-facing-australian-rural-communities-explained-by-an-expert-159339 (Accessed: August 2, 2021).
+
+Yanai, I. and Lercher, M. (2019) “What is the question?,” Genome biology, 20(1), p. 289.
