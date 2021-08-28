@@ -233,7 +233,7 @@ There is a maxim which I refer to often:
 What you should take from this is that early preparation is the way to give you the biggest advantage in capturing opportunities when they arise.
 The Assessment Task 2 deadline is about 6 weeks away, so it's time to start sketching your ideas down on your notebook.
 
-For further reading please read the article called "What is the question?" by Yanai and Lercher (2019).
+Please read the following articles*"What is the question?"* by Yanai and Lercher (2019) and *"Ten Simple Rules for Developing a Successful Research Proposal in Brazil"* by de Oliveira et al (2017).
 
 ## 4.9 References
 
@@ -244,5 +244,7 @@ Greene, B. (2004) The elegant universe: Superstrings, hidden dimensions, and the
 Greenhalgh, T. (1997) “How to read a paper: Papers that summarise other papers (systematic reviews and meta-analyses),” BMJ, 315(7109), pp. 672–675.
 
 Henry, S. (2021) “‘No one ever forgets living through a mouse plague’: the dystopia facing Australian rural communities, explained by an expert,” The Conversation, 30 April. Available at: http://theconversation.com/no-one-ever-forgets-living-through-a-mouse-plague-the-dystopia-facing-australian-rural-communities-explained-by-an-expert-159339 (Accessed: August 2, 2021).
+
+de Oliveira, D. M., Buckeridge, M. S. and Dos Santos, W. D. (2017) “Ten simple rules for developing a successful research proposal in Brazil,” PLoS computational biology, 13(2), p. e1005289.
 
 Yanai, I. and Lercher, M. (2019) “What is the question?,” Genome biology, 20(1), p. 289.

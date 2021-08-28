@@ -1,0 +1,305 @@
+---
+title: "Week 7 content"
+author: "Mark Ziemann"
+date: "28/08/2021"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+## 7.1 The research question - your number 1 priority
+
+In the week 4 content we described ways in which you can get started with developing your research proposal.
+The hardest part about developing a proposal is getting the research question right.
+This requires a deep understanding of topic and the research gaps that currently exist there.
+It also requires a good understanding of the research methods, so that you have a good confidence that the experiments, observations and data collection can be completed within the allocated time and within the stated budget.
+
+If you are struggling with defining your research question, my suggestion is to keep reading on your topic (review articles and books in particular), keep looking for research gaps where discoveries will lead to big advances and ask yourself what is holding back advancements in this area?
+This is where good research questions will focus on.
+
+The quality of your research proposal is largely driven by the novelty and innovation captured within the research question.
+In this week's content I will be focusing on developing the other sections of the research proposal after your research question has been finalised.
+If you don't have your research question finalised yet, I'd recommend you do that before progressing with the rest of this week's content.
+
+## 7.2 Overall structure
+
+For your written assignment I would strongly recommend sticking with the structure as shown in the writing guide.
+The amount of words and effort should be commensurate with the number of marks given.
+You have a limit of 2500 words (excluding bibliography).
+
+1. Project title and FOR/SEO/TOR codes (2 marks)
+
+2. Introduction (5 marks)
+
+3. Research question and specific aims (4 marks)
+
+4. Research plan and methodology (10 marks)
+
+5. Expected outcomes (5 marks)
+
+6. Proposed timeline and risk assessment (2 marks)
+
+7. References (2 marks)
+
+**Note: In this scheme, the research plan and methodology is twice as valuable as the introduction, so the assessor is expecting that your proposal has a well thought out set of experiments which will directly address the research question and aims.**
+
+## 7.3 General tips
+
+Before we jump into the different sections, I think it is a good point in time to get some writing tips for scientists.
+
+Read "*[Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)*" by Mensh and Kording (2017- see references).
+It outlines the formula scientists use to communicate their research findings, which includes sections like title, introduction, methods, results and discussion.
+You will recognise that your research proposal contains an introduction and methods which will likely look very similar in the proposal as compared to the finished research article.
+Likewise your research proposal contains a section for expected outcomes which could be analogous to a results and discussion.
+What I'm trying to say is that the research paper will contain a lot of the same information as the proposal, and that if you understand how a research paper should be structured, you will find it a lot easier to construct a research proposal.
+You will also be able to critically evaluate the research articles you have read in your topic area and assess whether they are following these ten simple rules or not.
+
+## 7.4 Project title and FOR/SEO/TOR codes
+
+The title of the proposal needs to communicate the focus of the research work.
+Many very good research proposals put the research question right there in the title, this is actually a very effective way to communicate the focus of the research very early on.
+Another approach is to put the main aim or the expected finding in the title, but I find this doesn't capture the context of the proposal very well.
+Compare these alternate titles for a research project I'm currently conducting.
+Which is your favourite?
+
+> Do epigenetic changes drive the adaptation to altered light environment in guppies?
+
+or
+
+> Epigenetic changes drive the adaptation to altered light environment in guppies
+
+or
+
+> Understanding adaptation to altered light environment in guppies: an epigenetic study
+
+or
+
+> An epigenetic study to resolve the drivers of adaptation to altered light environment in guppies
+
+The first one states clearly that this is an open question.
+The second title suggests that the hypothesis is true, despite the work not yet being complete.
+This could be perceived as being biased.
+The third and forth titles are not biased at all and describe the research focus (light adaptation in guppies) as well as hinting at the type of methods used (epigenetics).
+
+In the end, the title you go with comes down to personal preference, but it is vitally important that the title is memorable and accurately portrays the work proposed.
+In a way, the title is the most important component of your proposal or article.
+It should contain the keywords that people are using in their google and literature searches, and not be too long.
+
+In the seminar, we will be getting you to bring with you your research question and title - in the break-out rooms you will be discussing and refining with your classmates.
+
+Don't forget to include the FOR/SEO/TOR codes for your research proposal as well because they are worth marks too.
+
+## 7.5 Introduction
+
+Aim for an introduction of about one page of text. 
+Your introduction should begin with the "big picture" background and get a more narrower focus towards the end.
+Remember that a good introduction isn't just a collection of facts, its primary function is to provide the right context.
+In addition to the background information, you should state the problem, the state of current research and the research gap.
+For example, what *don't* we know on this topic which is holding us back from a better understanding?
+
+Highlighting the research gap is really critical because it puts into context the following sections where you will describe the research question and aims.
+The best way to get started writing a good introduction section is to read a lot of them and see if you can spot how they each highlight the research gap. 
+There are millions of research articles out there, but here are four examples (Booth et al, 2010; Sim et al, 2021; Trusov et al, 2006; Armitage et al, 2010):
+
+1. https://www.publish.csiro.au/mf/Fulltext/MF10270
+
+2. https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.120.051921
+
+3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1326045/ 
+
+4. https://jamanetwork.com/journals/jama/fullarticle/186130
+
+See that the introduction sections are actually quite short.
+They quickly get to the point and the reader is interested in reading the rest of the paper.
+
+Including graphics like charts and diagrams throughout your proposal (including the introduction) can help communicate the message and keep the reader's interest.
+
+## 7.6 Research question and specific aims
+
+We covered this in week 4 because it is the keystone of your proposal.
+I won't add anything further here, apart from mentioning that we will be having an activity in the seminar. 
+Students will discuss the title, research question and aims of their projects in the breakout rooms and give each other tips to improve them.
+The assignment rubric states one to five aims, but I would recommend two to three for a masters research project.
+
+If you haven't come up with a research question yet, be sure to join the seminar where we will be discussing your interests and possible ideas.
+
+## 7.7 Research plan and methodology
+
+This will be the longest section of your proposal.
+This is the section where you demonstrate how you will take your research idea from concept to completion.
+
+The way I like to structure my research plan is by the aims outlined in the previous section.
+Each of these aims can be subheadings.
+To address each aim, a series of experiments, analysis and other research activities are required.
+It is a great idea to include a flowchart of these parts of your project - here is an example.
+
+![Research project flow diagram. Source: Burhan et al, 2015.](https://www.researchgate.net/profile/Muhammad-Burhan-2/publication/299487388/figure/fig5/AS:419129979883520@1476939782404/Figure-4-Research-Project-flow-diagram_W640.jpg)
+
+Your job is to outline the details behind these tasks, demonstrating that you understand the methodology used is sufficient to address the aim in a conclusive way.
+For example if you are performing a survey as part of your project you will need to provide information on:
+
+* How the participants will be recruited,
+
+* How many participants will be recruited,
+
+* Who the target respondents are (age group, gender, geography, etc),
+
+* What ethical clearance will be sought,
+
+* What sort of questions will be asked (provide a draft of the questionnaire in the appendix),
+
+* How the data will be managed, and
+
+* What statistical analysis of the data will be conducted.
+
+If you are conducting laboratory based work in your project you will need to provide the following information:
+
+* What experiments will be conducted and what aims will they address?
+
+* Describe the control and treatment groups.
+How many replicates will be analysed?
+
+* How will you validate that the instrumentation is working correctly?
+
+* What checks will be in place to confirm that the reagents, such as antibodies are valid?
+
+* Provide information about how these methods work because the reader may not be familiar with techniques in other disciplines.
+
+* What statistical analysis will be used to evaluate these data?
+
+* Will the work be carried out only by you or will you get some assistance from the supervisor or other members of their group?
+
+In addition to defining what will be conducted, you will need to justify why you made these design choices.
+
+As I mentioned in the assignment writing guide, a literature review should not be included in the research methodology section because it is assumed that the literature study has been completed *before* the commencement of the project. 
+
+Critically, your research plan and methodology needs to involve some element of data collection.
+This is normally through experimentation but observational research projects may also be appropriate.
+You may also propose re-analysing data sets that have already been published but you need to be examining the data in a different or more innovative way.
+You may also aggregate data from different sources into a single study, in what is called a meta-analysis.
+
+By the end of this section the reader should feel confident that you have considered of all the necessary details in order for the project to be a success.
+
+## 7.8 Expected outcomes
+
+This section is the marketing pitch for your project.
+it begins with a summary of what type of results you will obtain with each phase of your project.
+The next part of this section should highlight the the importance of the project.
+
+Many scientific proposals (and articles) are heavy with detail, but the reader is left thinking "so what?".
+In Australia, funding rates for NHMRC and ARC grants are somewhere between 10 and 20%, so it is incredibly competitive.
+As an early-career researcher you are at a bit of a disadvantage because you don't have much of a track record (previous scientific articles or grants), so your chance at getting a grant will be somewhat lower.
+
+The most successful proposals are the ones with a detailed and flawless methodology, but are also able to argue that their proposal should be funded urgently.
+Typically this argument depends on the socio-economic objectives stated earlier on.
+For example, a biomedical study could focus on the health benefits of their research, especially if the disease in question is a significant cause of mortality, morbidity or loss of quality of life.
+Some diseases are exceptionally expensive to treat, for example kidney conditions because patients require regular dialysis.
+You could point to the economic benefits of your research, not only the direct health benefits.
+The economic benefits could include lower healthcare costs, higher productivity by keeping people healthier longer, but also development of the innovation to product can have benefits.
+Local companies can be formed, which can stimulate the local economy and refine the product further. 
+Patents can be filed, which will guarantee a monopoly on the technology so that the inventors and their institution can reap the rewards.
+
+If the project is focused on the environment for example wildlife, then you can argue that your project will be important for understanding and preserving vulnerable species and the ecosystems.
+In itself this is important, but you can mention the ecosystem services as well and you can estimate their value to the Australian economy.
+You might even speak to the more direct economic benefits such as ecotourism or mitigation of environmental problems that could be a threat in future.
+
+Your project doesn't absolutely need to have a direct economic or health benefit, there's a great deal of research done purely for curiosity.
+Expanding knowledge can, on its own be sufficient to underpin a proposal, so long as it is addressing a novel question or using novel methods.
+
+## 7.9 Proposed timeline and risk assessment
+
+This is a relatively short section which will outline when the different parts of the project will be conducted.
+A Gannt chart is a commonly used diagram to communicate timelines.
+Here is a simple Gannt chart I made for a Master's research project recently.
+We refer to this in our meetings to make sure the project progres is on track.
+
+![Example Gannt chart.](images/gannt.png)
+
+Research projects don't always need to follow a set sequence.
+Some sections can be completed in parallel and others are dependent on the completion of earlier parts.
+You should include into this timeline any preparations that are happening before the official start date.
+For example you might ask the project supervisor to order some supplies so they will be ready from day 1 of your project.
+Financial approvals for purchases and deliveries can take months so it is a good idea to have everything sorted before your begin.
+If you need ethical clearance for your project, this can be something that is sought before your official start date, as it also may take months to receive approval.
+
+In the above Gannt chart you can see that thesis writing is something that continues throughout the entire duration.
+Milestones can be set for first drafts, and this is helpful to the project supervisors because they can clear things from their schedule to read your drafts and provide feedback.
+
+In this section you should also mention the risk that could impact your project.
+
+There are many types of risks to consider:
+
+* Health and safety risks
+
+* Availability of instruments and reagents
+
+* Availability of data (if reanalysing public data)
+
+* Ability to obtain the required number of participants
+
+* Chance of lockdown based on infectious disease outbreak
+
+* Chance of natural disaster, such as bushfire, heatwave or pest infestation
+
+For a thorough description of risks, refer to the article by Baccarini and Melville (2011).
+For this section, you need to mention only the most important risks and how you will mitigate them.
+
+## 7.10 Referencing
+
+You should be well aware now about the rules for how to format in text citations and bibliography (Deakin University).
+Here I will just note some extra tips.
+
+1. Ensure you get the publication date wherever possible.
+Even on websites, it is possible to get the publication or last modified date.
+At the bottom of the website there is often a copyright notice.
+Use your favourite internet search engine with "get last modified date of webpage" and I'm sure you will get several different approaches.
+
+2. Check the format is suitable for the type of resource.
+The format for books is different to internet sites, which is different to conference papers, and different to departmental reports.
+Make sure the bibliographic entry is correctly formatted.
+
+3. Use the primary literature wherever possible.
+It's preferred to reference the original description of an idea rather than a re-telling or re-interpretation by someone later on.
+
+4. Cite reputable sources.
+Journal articles and books are preferred over other sources.
+Reputable wesites are fine, for example government departments and official bodies.
+Be wary of citing random internet sites, as these are not peer-reviews and might contain misleading or inaccurate information.
+
+5. We wary with sourcing information from other sources as you do not want to be criticised for plagiarism.
+Use turnitin to see any similarity with published works.
+
+![Avoid plagiarism concerns.](images/turnitin.png)
+You should always restructure the information from other sources in your own words, and include a citation.
+If you cannot rephrase it in your own words, then a quotation might be appropriate, however these should be used very sparingly.
+No more than one or two quotes are appropriate, especially in the sciences.
+
+## 7.11 Further reading
+
+*"Ten Simple Rules for Developing a Successful Research Proposal in Brazil"* by de Oliveira et al (2017).
+
+Browse publicly available research proposals at RIO journal (2021).
+
+## 4.9 References
+
+Reference List
+Baccarini, D. and Melville, T. (2011) “Risk management of research projects in a University context- An exploratory study,” in 36th Australasian University Building Educators Association (AUBEA) Conference. Available at: https://docplayer.net/46185031-Risk-management-of-research-projects-in-a-university-context-an-exploratory-study.html (Accessed: August 28, 2021).
+
+Booth, D. J., Bond, N. and Macreadie, P. (2011) “Detecting range shifts among Australian fishes in response to climate change,” Marine & freshwater research, 62(9), p. 1027.
+
+Deakin University (2021) Deakin guide to referencing - Harvard, Current Students. Available at: https://www.deakin.edu.au/students/studying/study-support/referencing/harvard (Accessed: August 28, 2021).
+
+Mensh, B. and Kording, K. (2017) “Ten simple rules for structuring papers,” PLoS computational biology, 13(9), p. e1005619.
+
+Muhammad Burhan, Syed Baharom Azahar Bin Syed Osman, Waqar Hussain Qazi (2015) “Effects of shear strength properties on electrical resistivity of compacted laterite soil: A conceptual model,” in Conference: Malaysian Universities Conference on Engineering and Technology (MUCET,2015)At: Johor bahru, Malaysia Volume: 11.
+
+de Oliveira, D. M., Buckeridge, M. S. and Dos Santos, W. D. (2017) “Ten simple rules for developing a successful research proposal in Brazil,” PLoS computational biology, 13(2), p. e1005289.
+
+RIO journal: Research outcomes and ideas (2021) Riojournal.com. Available at: https://riojournal.com/ (Accessed: August 28, 2021).
+
+Sim, C. B. et al. (2021) “Sex-specific control of human heart maturation by the progesterone receptor,” Circulation, 143(16), pp. 1614–1628.
+
+Study of the Effectiveness of Additional Reductions in Cholesterol and Homocysteine (SEARCH) Collaborative Group et al. (2010) “Effects of homocysteine-lowering with folic acid plus vitamin B12 vs placebo on mortality and major morbidity in myocardial infarction survivors: a randomized trial: A randomized trial,” JAMA: the journal of the American Medical Association, 303(24), pp. 2486–2494.
+
+Trusov, Y. et al. (2006) “Heterotrimeric G proteins facilitate Arabidopsis resistance to necrotrophic pathogens and are involved in jasmonate signaling,” Plant physiology, 140(1), pp. 210–220.
