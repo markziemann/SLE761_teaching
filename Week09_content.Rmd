@@ -1,0 +1,313 @@
+---
+title: "Week 9 content"
+author: "Mark Ziemann"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+theme: cosmo
+---
+
+In Assessment Task 3, you will be putting together a visual design piece to communicate some aspect of intellectual property in science and technology.
+
+The focus of this week's content is to give you the necessary background information so that you have a good starting point to begin you own research on the topic in order to complete the assessment.
+Additionally we will address ULO4 - Communicate an understanding of intellectual property and commercialisation in research.
+The assessment is worth 30% to the end of trimester mark.
+
+## 9.1 Introduction to intellectual property and research commercialisation
+
+We undertake research for many reasons ranging from personal curiosity, to making the world a better place and finally for financial benefit.
+Whenever research is conducted, there is a chance that a major discovery is made that has some major economic ramifications.
+
+For example, a team working on novel electrical battery types could identify a novel battery design that could double the range of electric vehicles.
+What would that discovery be worth? Billions perhaps.
+
+Broadly, intellectual property (IP) is the property of your mind or proprietary knowledge, the new ideas that are created.
+In this case, the novel high performance battery design is the intellectual property.
+
+In this week's content we will be discussing how research discoveries like this are brought to market, a process called research commercialisation.
+
+When we talk about "protection" of IP, what we mean is the ability for an organisation to retain ownership of that property and prevent others from financially exploiting the discovery.
+
+By protecting this IP, the organisation may gain financially, which goes toward paying ongoing research and development costs.
+If IP were not protected, there wouldn't be much incentive for businesses to invest in research and development because the newly developed products could be copied and sold at a lower price.
+
+So what are the different ways that organisations can protect their discoveries?
+
+The following outline is provided by the Business Federal Government department (Business, 2021):
+
+* **Patents** - protect inventions and new processes
+
+* **Trade marks** - protect logos, words and other branding
+
+* **Copyright** - protects art, writing, music, film, and computer programs
+
+* **Registered designs** - protects the visual design of a product
+
+* **Circuit layout rights** - protect layout designs or plans of integrated circuits used in computer-generated designs
+
+* **Plant breeder's rights** - protect the commercial rights of new plant varieties.
+
+In addition, trade secret is a form of non-legal IP protection.
+
+Let's discuss each type.
+
+Most of the information below is obtained from the IP Australia website (https://www.ipaustralia.gov.au/).
+In this content I will provide the links in line so that you can navigate more easily to these resources.
+See this link to get an overview of different types of IP protection (https://www.ipaustralia.gov.au/understanding-ip/getting-started-ip/types-of-ip).
+
+## 9.3 Patents
+
+A definition "A patent is a right that is granted for any device, substance, method or process that is new, inventive and useful.
+A patent is a legally enforceable right to commercially exploit the invention for the life of the patent" (IP Australia, 2021).
+
+Currently, the Patents Act of 1990 describes the current state of the patenting process in Australia.
+
+The "right" described here is the legal prevention of others from copying and financially exploiting the new invention.
+In effect, it gives monopoly protection to the developer of the invention to market and sell the invention.
+
+You will be given the legal right to stop others from producing, using or selling your invention in Australia without your permission.
+If you are a patent holder, you can permit others to perform the manufacturing process as defined in a legal contract.
+If others are using the invention without permission, you have the right to take legal action against them.
+
+Patents are most suited to innovations that can be described as inventions.
+
+These inventions can be a few different types:
+
+* **Substances**, like a chemical structure, or biological material. For example a novel small chemical drug or vaccine.
+
+* **Devices**, like the iPhone, Quadcopter drone, WiFi, etc.
+
+* **Method or process**, such as 3D printing, carbon fibre production, etc.
+
+* **Computer-related inventions**
+For computer programs, there needs to be an industrial application, software that solves mathematical problems without a particular industrial use case is not patentable.
+The computer program needs to provide a novel innovation - it can't simply be a translation of a program from one language to another.
+Physical devices can be patented, so long as they have some new improvement over previously known devices.
+Patent can protect individual components or complete systems.
+
+* **Business methods**
+Most business methods are not patentable, because they are rely on computers executing known algorithms.
+For example, smartphone apps for digital marketplace are not on their own patentable, however if you have developed a novel improvement to the way the marketplace app works, then that specific improvement could be given patent protection.
+
+* **Biological inventions**. It is possible to patent isolated bacteria, other microorganisms, cell lines, genetic vectors (plasmids), proteins, peptides, enzymes, whether natural or genetically modified.
+The processes for isolating, processing and analysing these materials can also be patented, as can the process of using these materials for production of other products like food and beverages.
+Human beings and the biological processes for their generation are not patentable.
+Patents are not available for gene sequences, DNA, RNA or nucleic acid sequences that replicate the genetic information that exists in the DNA blueprint or genome of any human or other organism. This is regardless of whether the genetic material was isolated or man-made.
+A patent cannot be granted for a mere discovery.
+The use to which the invention is to be put (for example, for the treatment of multiple sclerosis) must also be fully described.
+There must be an actual use for an invention rather than speculation about future uses.
+
+**What cannot be patented**:
+
+* human beings or the biological process for their generation
+
+* artistic creations
+
+* mathematical models
+
+* plans, schemes or other purely mental processes.
+
+If your invention has military aspects, the Commissioner can prohibit the publication of your application in the interests of the defence of the Commonwealth. 
+If this happens, a patent will not be granted. 
+
+IP Australia examines patent applications against a range of criteria.
+In simple terms these are:
+
+* **Novelty** – is the invention different to what has been done before?
+The invention must be new.
+The definition of new is related to the 'priority date' of the patent claim.
+Any materials in the public domain can be considered as the prior art and compared to the invention described in the parent claim.
+If the premise of the invention is discussed in a magazine article before the priority date, this would be enough to prevent the patent being granted based on novelty.
+
+* **Inventive step** – Is it different enough?
+It needs to be a significant innovation that individuals in the field would consider to be distinct from previous innovations.
+
+* **Manner of manufacture** – Is it suitable for patent protection?
+In other words, does it provide a material advantage, rather than a discovery on its own without any industrial application (Australian Law Reform Comission 2021).
+
+A standard patent provides protection for up to 20 years, while a pharmaceutical patent can last up to 25 years.
+There was another type of patent called an innovation patent which lasted 8 years but has now been discontinued. 
+
+IP Australia is the official body that assesses and grants patents in Australia.
+This will only grant protection in Australia, but not in other countries.
+The World Intellectual Property Organization (WIPO) is an international organisation that can grant patent protection for use in 193 countries. 
+
+## 9.4 A practical guide to getting a patent
+
+The process of obtaining a patent is quite long and IP Australia have provided a useful guide (https://www.ipaustralia.gov.au/sites/default/files/patent_application_guide.pdf)
+
+1. **Preparation.** If you have an invention, you should do some research and figure out whether it qualifies, based on the criteria above.
+Next you should decide on whether a patent is the right form of IP protection.
+For example you should weigh up the time, effort and monetary cost of the patent application against the potential gains.
+
+You need to make sure that your patent is novel and doesn't replicate something already patented or in the public domain.
+This can be done by searching patent databases such as AusPat.
+After doing this initial research, it's a good idea to seek professional advice from a patent attorney who can provide expert advise
+Secrecy must be maintained during the initial development of the invention.
+This is straightforward for an individual, but for large organisations with many employees and constant threats of corporate espionage, this is more difficult.
+Typically, employees, contractors, business partners and collaborators are required to sign a non-disclosure agreement to maintain secrecy and protect the IP from early disclosure which would devastate the patenting process.
+For scientists, you should not publish articles or otherwise share information about the invention.
+
+2. **Obtain a provisional patent**
+A provisional patent establishes the priority date for the invention.
+It is a temporary IP protection which lasts for 12 months.
+At the end of the 12 months, a full Standard application needs to be submitted.
+If the 12 month deadline expires, then the priority date resets, potentially compromising the latter application.
+As there is a strict 12 month window in which to submit the main application, it is important that the preparation was conducted properly as the inventor will need to work quickly to put together the full application in time.
+
+3. **Submit a complete application**
+Follow the instructions and details outlined by IP Australia.
+Engaging a patent attorney will streamline the process and avoid beginner errors.
+After the application is files, it will undergo publication in the Australian Official Journal of Patents (AOJP).
+After the patent is granted, the journal publication is used as a benchmark to enforce potential violations.
+It is also a good idea to submit a simultaneous application to WIPO for global patent protection.
+After submission, the application may be waiting in a queue for some time, when it is at the front of the queue, the inventor will be required to pay the examination fee and fill out another form before it can be assessed.
+After examination, the application might be granted, rejected or there may be issues raised by the examiner which need to be addressed by the inventor before patent can be awarded.
+
+4. **After granting**
+After a patent is awarded, there is a period of three months where others can lodge their objection to the patent.
+These objections can claim that the patent should not be awarded because of lack of novelty, inventiveness or manner of manufacture.
+The objections will be evaluated and might result in the patent being revoked.
+There are annual fees to pay and if they are not paid, then the IP protection will cease.
+At this stage it is the responsibility of the inventor to protect their IP with legal action against those who are violating the patent.
+
+![Patent application process](images/patentflowchart.png "Patent application process (IP Australia 2014)")
+
+## 9.5 Patent summary
+
+In conclusion, a patent is a type of IP protection for "how things work", the criteria for obtaining a patent are strict and the process is long and expensive. 
+Therefore patents are not suitable for all inventions.
+Sometimes, firms are looking to be the first to market with a product, so they bypass patenting in order to get to the market first and take a higher market share.
+This comes with significant risks, especially if the company is small and gets leap-frogged by a larger and more agile company.
+
+In another example, the inventor of Bitcoin, Satoshi Nakamoto, could have patented it but instead decided to release the code and whitepaper under a licence which allows anyone to use it in more or less any way they like. 
+It turns out this was a good idea, because the concept would have grown much more slowly (if at all) if it was patented before being deployed.
+
+There are other motivations for not getting a patent.
+The inventor of insulin to treat diabetes, Dr Frederick Banting, refused to sign his name on the patent for the discovery, as he believed it was unethical for a doctor to profit from a discovery that would save lives.
+That case is quite interesting, because the patent was eventually signed by his colleagues James Collip and Charles Best, who sold the patent to the University of Toronto for only $1.
+Ironically, the cost of insulin in many parts of the world has *increased* in recent years due to the greed and lack of regulation of the pharmaceutical industry (Belluz 2019). 
+
+## 9.6 Plant breeder's rights
+
+This type of IP protection can be granted for modifications made to plants to improve their characteristics such as agricultural yields, resistance to disease or environmental stress, or even their physical appearance.
+To qualify for plant breeders rights (PBR), the plant needs to be distinct, uniform and stable.
+By distinct, we mean that the variety needs to have some differences when compared to its original form.
+By uniform, we mean that the variety has consistent characteristics which do not vary greatly between individual plants.
+By stable, we mean that the characteristics of the plant are heritable and the progeny will inherit these characteristics for multiple generations.
+
+Plant Breeder's Rights Act 1994 (Australia) outlines the process for obtaining IP rights over plant varieties and the process of obtaining such protection.
+
+If awarded, PBR grants monopoly rights for a period of 20-25 years.
+
+The process is administered by IP Australia, and globally by the International Union for the protection of new varieties of plants UPOV which has ~75 members.
+
+For more information about plant breeder's rights, see the PBR section of IP Australia's webpage (https://www.ipaustralia.gov.au/plant-breeders-rights).
+
+![Plant Breeders Rights](images/pbr.png "Plant Breeders Rights (IP Australia 2014)")
+
+It is interesting to note that there are countries who are opposed to plant breeders rights as they are concerned that this type of IP control will disadvantage farmers who want to sell or trade their seed.
+This includes India, Pakistan, Nepal, Ghana, Nigeria among many others.
+
+## 9.7 Trade marks
+
+A trade mark is a way of identifying a unique product or service.
+
+Trade marks include not just logos, but also letters, numbers, words, phrases, sounds, smells, pictures, movements, types of packaging or a combination of these characteristics.
+
+A registered trade mark gives exclusive rights to use license and sell the mark. 
+Trademarks can also be a valuable component of a firm's portfolio, as these trademarks become synonymous with the success of the business.
+
+There are some things that cannot be trade marks, including the official business name, company name or internet domain name.
+Although naturally, business names can form part of the trade mark.
+
+There are two basic requirements of a trade mark: (i) that it must be in use in commerce and (ii) it must be distinctive.
+The Trade Mark Act of 1995 (Australia) governs the process around granting protected trade marks by IP Australia.
+
+Once granted, a trade mark gives 10 years of protection, which can be extended annually.
+In some cases, where the trade mark represents significant business value, the trademark can become indefinite. 
+
+More information about trade marks can be read from the IP Australia website (https://www.ipaustralia.gov.au/sites/default/files/tm_application_guide.pdf).
+
+Some examples of trademarks include the Apple Computer Logo, and the Windows start-up sound.
+
+One interesting case includes how Adidas lost its bid to trade mark its three stripe design (ABC News 2019).
+And another when Burger King (USA) couldn't use the same company name in Australia (Campana 2021).
+
+## 9.8 Registered designs
+
+If a particular product does not qualify for a patent as it is not an invention, but rather a design, then it is probably eligible to be a registered design.
+
+There are two criteria: (i) the design must be distinctive, and (ii) the design must not have been publicly disclosed.
+If the product has already been sold with the design before applying for registration of that design, it will be disqualified as being not new.
+The design must have a physical and tangible form, and can be a handmade or machined design, and be produced on a commercial scale.
+
+A registered design is granted for a period of 5 years, and can be extended for an additional 5, meaning the maximum lifetime of a registered design is 10 years.
+
+Registered designs as regulated under the 2003 Design Act (Australia).
+
+Some examples of registered designs include the design of a vehicle, clothing or furniture.
+
+Design rights don't cover designs with no physical form such as computer graphics. 
+
+Integrated circuit layout designs are covered by a specific type of IP protection
+
+## 9.9 Trade secrets
+
+In some cases, it may be preferable to keep your innovation as a trade secret.
+For example because the combination of ingredients could be easily replicated by someone and on it's own it doesn't qualify as something that can be patented.
+Famous trade secrets include the exact recipe for Coca-Cola and the seasoning mix used in KFC.
+
+When deciding on keeping a trade secret, you should assess the risk of someone discovering your invention through industrial espionage or, if your invention is a product, by reverse engineering.
+
+You also need to consider the consequences of someone else independently developing the same invention.
+
+An alternative is to openly use and publish details about your invention.
+By publicly disclosing the invention, it will prevent someone else obtaining a patent for it.
+However while no one would have a commercial monopoly on the invention, competitors would be free to use it for their own benefit as well.
+
+## 9.10 Copyright and licences
+
+It would be remiss of me not to mention copyright. 
+It applies to drawings, art, literature, music, film, broadcasts and computer programs.
+Common works protected by copyright include books, films, music, sound recordings, newspapers, magazines and artwork.
+It also protects originally created typographical arrangements, databases, media broadcasts, computer programs and compositions of other people's work such as academic journals or CD compilations.
+
+It gives protection to the creator on the final works, but not the overall concept.
+For example, a computer program could be refactored and written in a different computer language and this would not breach copyright.
+Similarly, if a photographer took a stunning photograph, the image itself would be copyright, but this woudn't protect it from being the subject of a painter and the painter being able to sell their painting.
+
+Copyright protection is provided under the Copyright Act 1968 and gives exclusive rights to license others in regard to copying works, performing it in public, broadcasting it, publishing it and making an adaptations.
+
+The moment an idea or creative concept is documented on paper or electronically it is automatically protected by copyright in Australia.
+
+Copyright is not managed by IP Australia, rather by the Department of Communications (https://www.communications.gov.au/).
+
+If the creator does not want to retain copyright, for example if they want to contribute it into the public with few or no restrictions, there are many options to do this.
+This is popular with open source software such as linux, which is the backbone of the internet these days.
+As a researcher, I insist that my research articles, software code and other writings are provided into the public domain, so they can be used by other scientists and the general community.
+Some scientific journals insist that the authors need to sign copyright over to the journal before an article can be published (Eg: American Heart Association ,2021).
+In my view this is antithetical to the advance of science because it places unnnecessary restrictions on the transfer of information and hinders the general public from benefiting from research advances.
+
+## 9.11 References
+
+ABC News (2019) “Adidas loses bid to widen trademark protection for three-stripe symbol,” 20 June. Available at: https://www.abc.net.au/news/2019-06-20/adidas-loses-three-stripes-trademark-bid/11228576 (Accessed: September 13, 2021).
+
+American Heart Association (2021) Journal Policies, AHA Journals. Available at: https://www.ahajournals.org/permissions-rights (Accessed: September 13, 2021).
+
+Australian Law Reform Comission (2010) Patentable subject matter, Australian Law Reform Comission. Available at: https://www.alrc.gov.au/publication/genes-and-ingenuity-gene-patenting-and-human-health-alrc-report-99/6-patentability-of-genetic-materials-and-technologies/patentable-subject-matter/ (Accessed: September 13, 2021).
+
+Belluz, J. (2019) The absurdly high cost of insulin, explained, Vox. Available at: https://www.vox.com/2019/4/3/18293950/why-is-insulin-so-expensive (Accessed: September 13, 2021).
+
+Business (2021) Intellectual property, Business. Available at: https://business.gov.au/planning/protect-your-brand-idea-or-creation/intellectual-property (Accessed: September 13, 2021).
+
+Campana, M. (2021) The reason burger king has A different name in Australia, Mashed.com. Mashed. Available at: https://www.mashed.com/313405/the-reason-burger-king-has-a-different-name-in-australia/ (Accessed: September 13, 2021).
+
+Guadamuz, A. (2019) Who owns the Bitcoin white paper?, Technollama.co.uk. Available at: https://www.technollama.co.uk/who-owns-the-bitcoin-white-paper (Accessed: September 13, 2021).
+
+IP Australia (2017) Patents, IP Australia. Available at: https://www.ipaustralia.gov.au/patents (Accessed: September 13, 2021).
+
+Patents Act 1990 (2019) C2019C00088. Available at: https://www.legislation.gov.au/Details/C2019C00088 (Accessed: September 13, 2021).
+
+Plant Breeder’s Rights Act 1994 (2019) C2019C00089. Available at: https://www.legislation.gov.au/Details/C2019C00089 (Accessed: September 13, 2021).
